@@ -1,5 +1,7 @@
 This project was created as a solution to the trial task of the Mind Games hackathon by the "zachem" team.
 
+Demo: https://drive.google.com/file/d/1nOY8j0r3LN_6yehRmZrGG97Yeg5IRbme/view?usp=sharing
+
 - CONTENTS:
 
 1) Repository structure
@@ -12,11 +14,10 @@ This project was created as a solution to the trial task of the Mind Games hacka
 
 Repository contains:
 
-1.1) Application source code (folder: TableParse)
-1.2) Technical demo (file: demo.mp4)
-1.3) Diplomas confirming the successful completion of the 20th Chin test by all team members (folder: Certificates)
-1.4) This very file you are reading right now (file: README_ENG.txt)
-1.5) The same file, but in Russian (file: README_RUS.txt)
+1.1) Application source code (TableParseBeta.rar)
+1.2) Diplomas confirming the successful completion of the 20th Chin test by all team members (Certificates.zip)
+1.3) This very file you are reading right now (file: README_ENG.txt)
+1.4) The same file, but in Russian (file: README_RUS.txt)
 
 2) DESCRIPTION OF THE TECHNOLOGIES USED (AND LIBRARIES)
 
